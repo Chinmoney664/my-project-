@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(npm run dev:*)",
+      "Bash(open:*)",
+      "Bash(npx shadcn@latest add:*)",
+      "Bash(git pull:*)",
+      "Bash(git init:*)"
+    ]
+  }
+}
